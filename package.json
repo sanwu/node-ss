@@ -1,6 +1,6 @@
 {
   "name": "node-ss",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "数术推演计算库",
   "main": "index.js",
   "bin": {

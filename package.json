@@ -3,9 +3,15 @@
   "version": "1.0.0",
   "description": "数术推演计算库",
   "main": "index.js",
+  "bin": {
+    "ss": "./bin/ss"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
 }

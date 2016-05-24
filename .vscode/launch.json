@@ -2,7 +2,7 @@
     "version": "0.1.0",
     "configurations": [
         {
-            "name": "Launch type",
+            "name": "Launch",
             "type": "node",
             "program": "${workspaceRoot}/src/index.ts",
             "stopOnEntry": false,

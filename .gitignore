@@ -1,0 +1,6 @@
+.vs
+.svn
+npm-debug.log
+node_modules
+build
+dist

@@ -1,0 +1,33 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "isolatedModules": false,
+        "jsx": "react",
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "declaration": false,
+        "noImplicitAny": false,
+        "removeComments": false,
+        "noLib": false,
+        "preserveConstEnums": true,
+        "suppressImplicitAnyIndexErrors": true,
+        "outDir": "./build",
+        "sourceMap": true,
+        "rootDir": "./src"
+    },
+    "exclude": [
+        "node_modules",
+        "typings/browser",
+        "typings/browser.d.ts"
+    ],
+    "compileOnSave": false,
+    "buildOnSave": true,
+    "filesGlob": [
+        "./src/**/*.ts"
+    ],
+    "atom": {
+        "rewriteTsconfig": false
+    }
+}

@@ -1,5 +1,5 @@
 {
-  "name": "zss",
+  "name": "node-ss",
   "version": "1.0.0",
   "description": "数术推演计算库",
   "main": "index.js",
